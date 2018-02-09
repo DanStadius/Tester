@@ -1,0 +1,3 @@
+Hooray!
+
+I've managed to upload both a text file, and an image!
