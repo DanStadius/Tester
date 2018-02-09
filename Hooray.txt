@@ -1,3 +1,4 @@
 Hooray!
 
 I've managed to upload both a text file, and an image!
+I've also managed to upload an avi file. It's a shame it doesn't show in GitHub.
